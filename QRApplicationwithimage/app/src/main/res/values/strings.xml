@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QR Application with image</string>
+    <string name="email_address">Email Address:</string>
+    <string name="send_email">Send Email</string>
+    <string name="subject">Subject</string>
+    <string name="body">Body</string>
+    <string name="take_barcode_picture">Take barcode picture</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="results">Results</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="no_barcode_detected">No Barcode Detected</string>
+    <string name="add_content_in_the_mail">ADD CONTENT IN THE MAIL</string>
+</resources>

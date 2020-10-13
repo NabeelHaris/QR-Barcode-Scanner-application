@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR code Application</string>
+    <string name="result_will_be_here">Result will be here</string>
+    <string name="text_result">text_result</string>
+</resources>
